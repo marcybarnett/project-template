@@ -1,0 +1,19 @@
+{
+  "name": "project-template",
+  "version": "1.0.0",
+  "description": "Starter project + Gulp",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcybarnett/project-template.git"
+  },
+  "author": "Marcy Barnett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcybarnett/project-template/issues"
+  },
+  "homepage": "https://github.com/marcybarnett/project-template#readme"
+}
